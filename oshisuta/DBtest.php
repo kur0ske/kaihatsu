@@ -4,10 +4,10 @@ function setDB(){
 
     try {
 //データベースに接続 //
-$con = mysql_connect("localhost", "root","");
+$con = mysql_connect("", "","");
 
 //データベースを選択//
-mysql_select_db("test2", $con);
+mysql_select_db("", $con);
 
 //文字コードをセット//
 mysql_set_charset('utf8');
