@@ -6,7 +6,7 @@ function DBConnect(){//データベースに接続
 
     try {
 //データベースに接続 //
-$con = mysqli_connect("localhost", "gakusai","gakusai","test");
+$con = mysqli_connect("", "","","");
 
 //文字コードをセット//
 mysqli_set_charset($con,"utf8");
