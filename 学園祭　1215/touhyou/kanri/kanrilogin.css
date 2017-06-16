@@ -1,0 +1,155 @@
+
+#form{
+    width: 400px;
+    margin: 30px auto;
+    padding: 20px;
+    border: 1px solid #555;
+    }
+
+form p{
+    font-size: 14px;
+    }
+
+.form-title{
+    text-align: center;
+    }
+
+.userid,.pass{
+    margin-bottom: 20px;
+    }
+
+input[type="userid"]{
+    width: 300px;
+    padding: 4px;
+    font-size: 14px;
+    }
+input[type="password"] {
+    width: 200px;
+    padding: 4px;
+    font-size: 14px;
+    }
+    
+input#submit_button {
+    width: 300px;
+    height: 50px;
+    padding: 15px 40px;
+    font-size: 1.2em;
+    background-color: #1E90FF;
+    color: #fff;
+    border-style: none;
+}
+
+input#submit_button_login {
+    width: 200px;
+    height: 40px;
+    font-size: 1.2em;
+    background-color: #1E90FF;
+    color: #000;
+    border-style: none;
+}
+
+input#submit_button_back{
+    width: 100px;
+    height: 40px;
+    font-size: 1.2em;
+    background-color: #1E90FF;
+    color: #000;
+    border-style: none;
+}
+
+input#submit_button_update{
+    width: 100px;
+    height: 40px;
+    font-size: 1.2em;
+    background-color: #32CD32;
+    color: #000;
+    border-style: none;
+}
+
+input#submit_button_delete{
+    width: 100px;
+    height: 40px;
+    font-size: 1.2em;
+    background-color: 	#DC143C;
+    color: #000;
+    border-style: none;
+}
+
+input#submit_button_insert{
+    width: 100px;
+    height: 40px;
+    font-size: 1.2em;
+    background-color: 	#0000CD;
+    color: #fff;
+    border-style: none;
+}
+
+button#submit_button {
+    width: 300px;
+    height: 50px;
+    padding: 15px 40px;
+    font-size: 1.2em;
+    background-color: #000;
+    color: #fff;
+    border-style: none;
+}
+
+button#submit_button_back {
+    width: 100px;
+    height: 40px;
+    font-size: 1.2em;
+    background-color: #1E90FF;
+    color: #000;
+    border-style: none;
+}
+
+body{  
+
+    background-color: #E0FFFF;
+}
+
+h2 {
+
+color : #0000FF;
+}
+
+h3 {
+
+color : #ff0000;
+}
+
+p.red{
+color:#ff0000;
+}
+
+p.purple{
+color:#9370DB;
+}
+
+p.yellow{
+color:#BDB76B;
+}
+
+p.orangered{
+color:#FF4500;
+}
+
+p.mediumseagreen{
+color:#3CB371;
+}
+
+p.deeppink{
+color:#FF1493;
+}
+
+p.seagreen{
+color:#2E8B57;
+}
+
+p.slateblue{
+color:#6A5ACD;
+}
+
+p.slategray{
+color:#708090;
+}
